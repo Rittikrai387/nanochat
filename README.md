@@ -1,5 +1,5 @@
 # nanochat
-
+ฤทธิไกร กิริกัน (GrandmasterAngel)
 ![nanochat logo](dev/nanochat.png)
 
 > The best ChatGPT that $100 can buy.
@@ -219,3 +219,4 @@ If you find nanochat helpful in your research cite simply as:
 ## License
 
 MIT
+ผู้ร่วมสร้าง Rittikrai kirikan 
